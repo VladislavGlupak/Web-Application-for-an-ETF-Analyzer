@@ -1,0 +1,48 @@
+    1  . code
+    2  conda activate dev
+    3  git status
+    4  git add .
+    5  git commit -m "adding video into media folder"
+    6  git push
+    7  code .
+    8  git add .
+    9  git commit -m "changing readme"
+   10  git push
+   11  git add .
+   12  git commit -m "changing readme"
+   13  git push
+   14  git add .
+   15  git commit -m "changing readme"
+   16  git push
+   17  git add .
+   18  git commit -m "changing readme"
+   19  git push
+   20  git add .
+   21  git status
+   22  git status
+   23  git reset etf_analyzer.ipynb
+   24  git status
+   25  git commit -m "modifying readme"
+   26  git push
+   27  git status
+   28  git add README.md
+   29  git cimmit -m "modifyng readme"
+   30  git push
+   31  git commit -m "modifyng readme"
+   32  git push
+   33  git add README.md
+   34  git commit -m "modifyng readme"
+   35  git push
+   36  git add README.md
+   37  git commit -m "fixed typo"
+   38  git push
+   39  git add README.md
+   40  git commit -m "fixed typo"
+   41  git push
+   42  git add README.md
+   43  git commit -m "modifying README"
+   44  git push
+   45  git add README.md
+   46  git commit -m "modifying README"
+   47  git push
+   48  history 50 > history.txt
