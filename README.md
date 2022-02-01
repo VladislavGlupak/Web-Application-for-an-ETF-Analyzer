@@ -34,6 +34,8 @@ This project leverages the following tools for financial analysis:
 
 SQL database - ```etf.db```, contains 4 tables ```[GDOT, GS, PYPL, SQ]```
 
+---
+
 ## Deploying your Jupyter notebook via the Voilà library
 
 1. Install ```pip install SQLAlchemy```
@@ -45,7 +47,7 @@ Pls, open the video (also you can find vide in the ```Media``` folder):
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dyYD3aUHhH8
 " target="_blank"><img src="http://img.youtube.com/vi/dyYD3aUHhH8/0.jpg" 
-alt="How to run Voila" width="480" height="360" border="30" /></a>
+alt="How to run Voila" width="720" height="480" border="10" /></a>
 
 ## Analyze a single asset (PYPL) in the FinTech ETF
 
