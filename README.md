@@ -43,6 +43,7 @@ SQL database - ```etf.db```, contains 4 tables ```[GDOT, GS, PYPL, SQ]```
 
 Pls, refer the video:
 
-[![Run app by Voila](https://www.youtube.com/watch?v=dyYD3aUHhH8/0.jpg)](https://www.youtube.com/watch?v=dyYD3aUHhH8)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dyYD3aUHhH8
+" target="_blank"><img src="http://img.youtube.com/vi/dyYD3aUHhH8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-https://youtu.be/dyYD3aUHhH8
