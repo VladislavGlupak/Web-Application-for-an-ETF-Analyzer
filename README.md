@@ -43,4 +43,6 @@ SQL database - ```etf.db```, contains 4 tables ```[GDOT, GS, PYPL, SQ]```
 
 Pls, refer the video:
 
-![Run app by Voila](Media/Web-Application-for-an-ETF-Analyzer.mp4)
+[![Run app by Voila](https://www.youtube.com/watch?v=dyYD3aUHhH8/0.jpg)](https://www.youtube.com/watch?v=dyYD3aUHhH8)
+
+https://youtu.be/dyYD3aUHhH8
