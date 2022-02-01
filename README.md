@@ -43,7 +43,7 @@ SQL database - ```etf.db```, contains 4 tables ```[GDOT, GS, PYPL, SQ]```
 3. open terminal in the project folder
 4. Run ```voila etf_analyzer.ipynb```
 
-**Pls, open the video (also you can find video in the ```Media``` folder):**
+**Pls, click on the video (also you can find video in the ```Media``` folder):**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dyYD3aUHhH8
 " target="_blank"><img src="http://img.youtube.com/vi/dyYD3aUHhH8/0.jpg" 
