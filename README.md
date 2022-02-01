@@ -49,6 +49,8 @@ Pls, open the video (also you can find video in the ```Media``` folder):
 " target="_blank"><img src="http://img.youtube.com/vi/dyYD3aUHhH8/0.jpg" 
 alt="How to run Voila" width="720" height="480" border="10" /></a>
 
+---
+
 ## Analyze a single asset (PYPL) in the FinTech ETF
 
 Based on the analysis, the cumulative return from 2016 to 2020 is gradually increasing.
