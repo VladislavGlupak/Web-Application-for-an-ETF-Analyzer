@@ -45,5 +45,6 @@ Pls, refer the video:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dyYD3aUHhH8
 " target="_blank"><img src="http://img.youtube.com/vi/dyYD3aUHhH8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="How to run Voila" width="360" height="240" border="10" /></a>
+
 
