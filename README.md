@@ -36,7 +36,7 @@ SQL database - ```etf.db```, contains 4 tables ```[GDOT, GS, PYPL, SQ]```
 
 ---
 
-## Deploying your Jupyter notebook via the Voilà library
+## Deploying Jupyter notebook via the Voilà library
 
 1. Install ```pip install SQLAlchemy```
 2. Install ```conda install -c conda-forge voila```
