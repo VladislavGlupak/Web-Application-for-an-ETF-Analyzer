@@ -45,6 +45,34 @@ Pls, refer the video:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dyYD3aUHhH8
 " target="_blank"><img src="http://img.youtube.com/vi/dyYD3aUHhH8/0.jpg" 
-alt="How to run Voila" width="360" height="240" border="10" /></a>
+alt="How to run Voila" width="480" height="360" border="10" /></a>
 
+## Analyze a single asset (PYPL) in the FinTech ETF
+
+Based on the analysis, the cumulative return from 2016 to 2020 is gradually increasing.
+
+![App's prompts](Media/Cumu_pypl.JPG)
+
+However, in 2020 from February to March, there was a sharp decrease in the cumulative return.
+
+![App's prompts](Media/cumu_pypl_down.JPG)
+
+## Analyze the Fintech ETF Portfolio
+
+The cumulative return of the entire portfolio looks about the same as the PYPL.
+Basically, there is an upward trend.
+
+![App's prompts](Media/portfolio.JPG)
+
+---
+
+## Contributors
+
+Vladislav Glupak - [Linkedin](https://www.linkedin.com/in/vladislav-glupak/)
+
+---
+
+## License
+
+It is an Open-source analysis.
 
